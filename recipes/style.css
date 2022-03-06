@@ -1,0 +1,16 @@
+.recipeHeading {
+    background-color: blue;
+}
+
+.recipeImage {
+    height: auto;
+    width: 200px;
+}
+
+p {
+    color: aqua;
+}
+
+.prep {
+    font-style: italic;
+}
